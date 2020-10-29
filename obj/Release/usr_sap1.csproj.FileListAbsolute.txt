@@ -1,0 +1,10 @@
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\usr_sap1.csprojAssemblyReference.cache
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\usr_sap1.Form1.resources
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\usr_sap1.Properties.Resources.resources
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\usr_sap1.csproj.GenerateResource.cache
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\usr_sap1.csproj.CoreCompileInputs.cache
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\bin\Release\UsuariosSAP.exe.config
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\bin\Release\UsuariosSAP.exe
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\bin\Release\UsuariosSAP.pdb
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\UsuariosSAP.exe
+C:\Users\Karla Martinez\source\repos\usr_sap1\usr_sap1\obj\Release\UsuariosSAP.pdb

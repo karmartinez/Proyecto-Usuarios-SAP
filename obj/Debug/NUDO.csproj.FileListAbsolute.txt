@@ -1,0 +1,10 @@
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\NUDO.csprojAssemblyReference.cache
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\usr_sap1.Form1.resources
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\usr_sap1.Properties.Resources.resources
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\NUDO.csproj.GenerateResource.cache
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\NUDO.csproj.CoreCompileInputs.cache
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\UsuariosSAP.exe
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\obj\Debug\UsuariosSAP.pdb
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\bin\Debug\UsuariosSAP.exe.config
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\bin\Debug\UsuariosSAP.exe
+C:\Users\Karla Martinez\Desktop\repos\proyecto nudo\usr_sap1\usr_sap1\usr_sap1\bin\Debug\UsuariosSAP.pdb
